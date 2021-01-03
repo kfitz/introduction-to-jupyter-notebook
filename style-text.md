@@ -48,7 +48,7 @@ But here's a neat trick: if you use three backticks instead of one, and the firs
 
 ![][7]
 
-[7]: images/code4.jpg
+[7]: images/code4.png
 
 You can save your notebook by choosing "Save" under the File menu or by clicking the Save icon. Jupyter Notebook will autosave your work as you go, so you don't need to worry about losing anything, but actively saving provides the added benefit of creating a checkpoint. This will allow you to revert your notebook to a prior state if things go wrong or you want to do something differently.
 
