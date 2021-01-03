@@ -50,6 +50,14 @@ But here's a neat trick: if you use three backticks instead of one, and the firs
 
 [7]: images/code4.jpg
 
-That's it for this tutorial. Now that you've been introduced to Jupyter Notebooks, I'll use a notebook for our next project.
+You can save your notebook by choosing "Save" under the File menu or by clicking the Save icon. Jupyter Notebook will autosave your work as you go, so you don't need to worry about losing anything, but actively saving provides the added benefit of creating a checkpoint. This will allow you to revert your notebook to a prior state if things go wrong or you want to do something differently.
+
+Finally, to close your notebook you need to do more than just close the browser tab; Jupyter Server will keep the kernel of your notebook running in the background until it's stopped. (A nice feature if you've ever lost your work by accidentally closing a tab!) To fully close the notebook, you can select "Close and Halt" under the File menu, or, if you've already closed the browser tab, you can click "Shutdown" under the "Running" tab on Jupyter Server.
+
+![][8]
+
+[8]: images/shutdown.jpg
+
+That's it for this tutorial. Now that you've been introduced to Jupyter Notebooks, I'll use a notebook for our next set of tasks.
 
 
