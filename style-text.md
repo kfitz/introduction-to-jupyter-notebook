@@ -56,7 +56,7 @@ Finally, to close your notebook you need to do more than just close the browser 
 
 ![][8]
 
-[8]: images/shutdown.jpg
+[8]: images/shutdown.png
 
 That's it for this tutorial. Now that you've been introduced to Jupyter Notebooks, I'll use a notebook for our next set of tasks.
 
