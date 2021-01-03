@@ -26,4 +26,8 @@ Hitting return at the end of that line will take you to a second line in the sam
 
 [3]: images/hello-jupyter.png
 
+You'll notice that the empty brackets next to "In" in the first cell have now filled in with the number 1. The next cell you run will fill in with 2, and so on, allowing you to keep track of the order in which you've run the cells.
 
+If you have multiple cells in your Notebook, and you run the cells in order, you can share variables and imported libraries across cells, which makes it easy to produce code in logical chunks without needing to recreate those variables or reimport those libraries every time.
+
+If you want to learn more about the notebook environment -- what's in the menus and so on -- you can continue with the [Real Python introduction](https://realpython.com/jupyter-notebook-introduction/). For the moment, however, let's move on to [Part 3: Styling Text in Your Notebook](https://github.com/kfitz/introduction-to-jupyter-notebook/blob/master/style-text.md).
