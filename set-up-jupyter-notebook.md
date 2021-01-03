@@ -10,5 +10,5 @@ When you launch Anaconda, you'll notice a few things:
 
 ![][1]
 
-[1]: images/set-up-jupyter-notebook/anaconda.png
+[1]: images/anaconda.png
 
