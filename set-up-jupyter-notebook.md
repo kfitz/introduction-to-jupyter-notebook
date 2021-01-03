@@ -32,4 +32,4 @@ You can refresh your Jupyter server view by clicking the circular arrows next to
 
 [3]: images/notebooks-folder.png
 
-If so, you're ready for [Part 2: Create a Notebook](https://github.com/kfitz/introduction-to-jupyter-notebook/blob/master/create-notebook.md)
+If so, you're ready for [Part 2: Create a Notebook](https://github.com/kfitz/introduction-to-jupyter-notebook/blob/master/create-notebook.md).
